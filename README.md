@@ -8,8 +8,7 @@ Hello, I'm Tanishka Makode, a dedicated programmer and web developer with a ferv
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishkamakode) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tanishka_makode) 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![My Holopin badges](https://holopin.me/tanishkamakode)](https://holopin.io/@tanishkamakode)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tanishkamakode&icon=1&color=12)](https://visitcount.itsvg.in)
